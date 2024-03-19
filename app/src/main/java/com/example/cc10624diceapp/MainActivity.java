@@ -12,7 +12,6 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-
     private Button btnRoll, btnReset, btnClose;
     private Button btnTab1, btnTab2, btnTab3;
     private ImageView imgDice;
