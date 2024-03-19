@@ -10,7 +10,6 @@ import android.widget.ImageView;
 
 import java.util.Random;
 
-
 public class MainActivity extends AppCompatActivity {
 
     private Button btnRoll, btnReset, btnClose;
